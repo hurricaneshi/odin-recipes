@@ -1,9 +1,13 @@
 body {
     background: beige;
     width: 600px;
+    height: auto;
     margin: 16px auto;
-    padding: 5px;
+    padding: 45px;
+}
 
+.pages {
+    border: 2px solid rgb(0, 0, 0);
 }
 
 #maintitle {
